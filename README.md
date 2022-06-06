@@ -1,3 +1,3 @@
 Brain MRI prediction uisng UNET  architecture...
-![BT_2](https://user-images.githubusercontent.com/52192158/172171344-19dffd5f-a8b6-47e1-8431-7f038ba55b9d.JPG
+![BT_2](https://user-images.githubusercontent.com/52192158/172171344-19dffd5f-a8b6-47e1-8431-7f038ba55b9d.JPG)
 ![BT3](https://user-images.githubusercontent.com/52192158/172171528-4569c689-ebc4-4b82-b850-4cf452c5dacc.JPG)
